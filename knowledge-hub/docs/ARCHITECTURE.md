@@ -85,7 +85,7 @@ Never store plaintext passwords.
 ### Conversation
 - `_id`
 - `userId`
-- `type`: `general` or `document`
+- `type`: `general` or `d cument`
 - `title`
 - `documentId` (required for document conversations; absent for general conversations)
 - `createdAt`, `updatedAt`
